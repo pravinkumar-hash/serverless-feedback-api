@@ -36,6 +36,9 @@ Thunder Client / Postman – for API testing
 
 
 🔌 Endpoint
+> 🔔 Note: This API supports **POST** requests only.  
+> Opening the URL in a browser will show **"Not Found"** because browsers send **GET** requests by default.  
+> Use Thunder Client / Postman to test the API with JSON input.
 Method: POST
 URL:
 https://fm0llv54w9.execute-api.ap-south-1.amazonaws.com/prod/feedback
@@ -131,5 +134,6 @@ Strong portfolio project for Cloud / DevOps / Backend engineer roles
 Name: Pravin Kumar S
 Role: Cloud & Python Enthusiast
 Passionate about cloud computing, serverless architectures, Python automation, and building real-world projects on AWS.
+
 
 
