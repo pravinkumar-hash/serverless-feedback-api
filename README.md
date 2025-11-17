@@ -45,7 +45,7 @@ Content-Type: application/json
 📤 Sample Request
 {
   "name": "Pravin Kumar S",
-  "email": "pravin.cloud.computing@example.com",
+  "email": "pravinkumar25062004@gmail.com",
   "role": "Cloud & Python Enthusiast",
   "message": "Testing my AWS Serverless Feedback API built with API Gateway and Lambda (Python). The architecture is event-driven, scalable, and runs fully within the AWS Free Tier. Excited to apply these cloud skills in real-world projects."
 }
@@ -130,3 +130,4 @@ Strong portfolio project for Cloud / DevOps / Backend engineer roles
 Name: Pravin Kumar S
 Role: Cloud & Python Enthusiast
 Passionate about cloud computing, serverless architectures, Python automation, and building real-world projects on AWS.
+
