@@ -127,7 +127,9 @@ Strong portfolio project for Cloud / DevOps / Backend engineer roles
 
 
 👤 About the Developer
+
 Name: Pravin Kumar S
 Role: Cloud & Python Enthusiast
 Passionate about cloud computing, serverless architectures, Python automation, and building real-world projects on AWS.
+
 
