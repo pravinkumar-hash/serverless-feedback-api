@@ -46,10 +46,13 @@ Method: POST
 URL:
 
 https://fm0llv54w9.execute-api.ap-south-1.amazonaws.com/prod/feedback
+
 Headers:
+
 Content-Type: application/json
 
 📤 Sample Request
+
 {
   "name": "Pravin Kumar S",
   "email": "pravinkumar25062004@gmail.com",
@@ -59,6 +62,7 @@ Content-Type: application/json
 
 
 📥 Sample Response
+
 {
   "status": "ok",
   "message": "Feedback received. Thank you!"
@@ -66,6 +70,7 @@ Content-Type: application/json
 
 
 🧠 Lambda Function (Core Logic)
+
 The Lambda function:
 
 
@@ -138,6 +143,7 @@ Strong portfolio project for Cloud / DevOps / Backend engineer roles
 Name: Pravin Kumar S
 Role: Cloud & Python Enthusiast
 Passionate about cloud computing, serverless architectures, Python automation, and building real-world projects on AWS.
+
 
 
 
