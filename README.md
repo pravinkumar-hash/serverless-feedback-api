@@ -7,10 +7,12 @@ A fully serverless feedback API built with AWS Lambda, API Gateway, and Python �
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 
 📌 Overview
+
 This project is a serverless feedback API built on AWS using Lambda (Python) and API Gateway (HTTP API).
 The API accepts a JSON payload containing name, email, role, and message, performs basic validation, logs the feedback to CloudWatch Logs, and returns a structured JSON response. It is designed to run fully on AWS using a serverless architecture.
 
 🏗 Architecture
+
 Client (Thunder Client / Postman / Frontend)
 → Amazon API Gateway (HTTP API)
 → AWS Lambda (Python 3.12)
@@ -143,6 +145,7 @@ Strong portfolio project for Cloud / DevOps / Backend engineer roles
 Name: Pravin Kumar S
 Role: Cloud & Python Enthusiast
 Passionate about cloud computing, serverless architectures, Python automation, and building real-world projects on AWS.
+
 
 
 
